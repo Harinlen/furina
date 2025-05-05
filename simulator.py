@@ -2,4 +2,5 @@
 from furina import launcher
 
 launcher.run_server(port=8080,
-                    model_name="qwen3-0.6b")
+                    model_name="Qwen3",
+                    num_of_params="0.6B",)
